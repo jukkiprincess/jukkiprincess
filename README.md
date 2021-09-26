@@ -6,8 +6,8 @@ I'm currently working on [Sloffy](https://discord.gg/BBf8pewVSU) and ds-api
 -🤍PRONOUNS : SHE/THEY
 - **I LOVE YOU STERZI**
 
-![Juki-github stats](https://github-readme-stats.vercel.app/api?username=Nickthefamous&show_icons=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nickthefamous&label=Profile%20views%20:O&color=0e75b6&style=flat" alt="hi" /></p>
+![Juki-github stats](https://github-readme-stats.vercel.app/api?username=jukkiprincess&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jukkiprincess&label=Profile%20views%20:O&color=0e75b6&style=flat" alt="hi" /></p>
 <!---
 Nickthefamous/Nickthefamous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
