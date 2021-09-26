@@ -1,5 +1,5 @@
 I'm currently working on [Sloffy](https://discord.gg/BBf8pewVSU) and ds-api
-- 👋 Hi, I’m @/jukkiprincess aka [𝓙𝓾𝓴𝓲#0001](https://discord.com/users/575625240588320798)
+- 👋 Hi, I’m @jukkiprincess aka [𝓙𝓾𝓴𝓲#0001](https://discord.com/users/575625240588320798)
 - 👀 I’m interested in Coding and Webdeveloping
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on discord
