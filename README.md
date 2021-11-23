@@ -10,6 +10,9 @@ I'm currently working on [Julka.py](https://discord.gg/BBf8pewVSU)
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/575625240588320798.png" />
 
+<a href="https://discord.com/oauth2/authorize?client_id=575625240588320798&permissions=8&scope=bot"><img align="right" src="https://komarev.com/ghpvc/?username=Jukii&color=2f3136">
+
+  
 [Juki-github stats](https://github-readme-stats.vercel.app/api?username=jukkiprincess&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukkiprincess&label=Profile%20views%20:O&color=0e75b6&style=flat" alt="hi" /></p>
 <!---
