@@ -4,7 +4,6 @@ I'm currently working on [Julka.py](https://discord.gg/jgp5JsnG5E)
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on discord
 -🤍PRONOUNS : SHE/THEY
-- **I LOVE YOU STERZI**#
 
 ### Discord Account 🎉
 
