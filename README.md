@@ -1,8 +1,8 @@
-👋 Hi, I’m @jukkiprincess aka [Juki#9607](https://discord.com/users/575625240588320798)
-👀 I’m interested in Coding and Webdeveloping
-🌱 I’m currently learning Node.js
-💞️ I’m looking to collaborate on discord
-💖PRONOUNS : She/they
+- 👋 Hi, I’m @jukkiprincess aka [Juki#9607](https://discord.com/users/575625240588320798)
+- 👀 I’m interested in Coding and Webdeveloping
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on discord
+- 💖PRONOUNS : She/they
 
 
 
