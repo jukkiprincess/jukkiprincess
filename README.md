@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there! 🍕
+- 📫 How to reach me: SOON
+- 😄 Pronouns: She/they
+- ⚡ Fun fact: Foxes are my favorite animals
 <!--
 **jukkiprincess/jukkiprincess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
